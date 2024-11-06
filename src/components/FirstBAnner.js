@@ -12,44 +12,22 @@ const FirstBanner = () => {
               -: This site is under construction :-
             </p>
 
-            <p className="pt-3 md:pt-6 text-lg text-left hidden md:grid">
-              Oldstitch Zhejiang Lanhong Textile Technology Co., LTD
-              <br />
-              <br />
-              Dhaka Office: Level #2, House # 18, Road #10, Sector #1, Uttara,
-              Dhaka-1230
-              <br />
-              <br />
-              Phone: +8801784393953,{" "}
-              <span className="pl-3">Email: info@lanhongtextile.com</span>
-              <br />
-              <br />
-              Zhejiang Office: <br />
-              Room 701, Building 1, Conan Business Center, Keqiao District,
-              Shaoxing, Zhejiang
-              <br />
-              Dongguan Office: 145 Renmin North Road, Humen Town, Dongguan City,
-              Guangdong Province
-            </p>
-
-            <p className="pt-3 md:pt-6 text-lg text-left grid md:hidden">
-              Oldstitch Zhejiang Lanhong Textile Technology Co., LTD
-              <br />
-              <br />
-              Dhaka Office: Level #2, House # 18, Road #10, Sector #1, Uttara,
-              Dhaka-1230
-              <br />
-              <br />
-              Phone: +8801784393953, <br />
-              Email: info@lanhongtextile.com
-              <br />
-              <br />
-              <p className="text-justify">
+            <p className="pt-3 md:pt-6 text-lg text-left">
+              <p>Oldstitch Zhejiang Lanhong Textile Technology Co., LTD</p>
+              <p className="pt-1">
+                <p className="font-bold">Dhaka Office:</p>
+                Level #2, House # 18, Road #10, Sector #1, Uttara, Dhaka-1230
+              </p>
+              <p className="font-bold pt-3">Phone: +8801784393953,</p>
+              <p className="font-bold">
+                Email: info@lanhongtextile.com
+              </p>{" "}
+              <p className="text-justify pt-3">
                 <span className="font-bold">Zhejiang Office:</span> <br />
                 Room 701, Building 1, Conan Business Center, Keqiao District,
                 Shaoxing, Zhejiang
               </p>
-              <p className="text-justify pt-2">
+              <p className="text-justify pt-1">
                 <span className="font-bold">Dongguan Office:</span> <br /> 145
                 Renmin North Road, Humen Town, Dongguan City, Guangdong Province
               </p>
@@ -88,9 +66,8 @@ const FirstBanner = () => {
             <p className="pt-2 md:pt-6 text-lg text-left">
               <p>Oldstitch Zhejiang Lanhong Textile Technology Co., LTD</p>
               <p className="pt-1">
-                <p className="font-bold">Dhaka Office:</p> 
-                Level #2, House # 18, Road #10, Sector #1, Uttara,
-                Dhaka-1230
+                <p className="font-bold">Dhaka Office:</p>
+                Level #2, House # 18, Road #10, Sector #1, Uttara, Dhaka-1230
               </p>
               <p className="font-bold pt-2">Phone: +8801784393953,</p>
               <p className="font-bold pt-1">
