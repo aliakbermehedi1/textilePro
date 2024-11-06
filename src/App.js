@@ -14,9 +14,9 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <Header/>
+        {/* <Header/> */}
         <Route path="/" exact component={Home}></Route>
-        <Route path="/contact"  component={Contact}></Route>
+        {/* <Route path="/contact"  component={Contact}></Route> */}
         {/* <Route path="/about"  component={About}></Route> */}
         {/* <Route path="/blog" exact component={Blog}></Route> */}
         {/* <Route path="/blog/:id"  component={BlogDetail}></Route> */}
