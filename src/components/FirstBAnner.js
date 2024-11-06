@@ -68,7 +68,7 @@ const FirstBanner = () => {
         </div>
 
         {/* SMALL */}
-        <div className="grid grid-cols-7 my-2 md:my-20">
+        <div className="grid grid-cols-7 my-2 md:my-20 md:hidden">
           <div className="col-span-7 md:col-span-3">
             {/* Image Here */}
             <img
