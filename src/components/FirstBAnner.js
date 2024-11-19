@@ -30,15 +30,16 @@ const FirstBanner = () => {
           </p>
 
           <div className="text-lg text-center bg-white bg-opacity-80 p-4 rounded-xl">
-            <p className="font-bold text-2xl">Oldstitch</p>
-            <p>Zhejiang Lanhong Textile Technology Co., LTD</p>
+            <p className="font-bold text-2xl">
+              Oldstitch/Zhejiang Lanhong Textile Technology Co., LTD
+            </p>
             <div className="mt-6 border-l-4 border-yellow-300">
               <p className="font-bold text-2xl">Dhaka Office:</p>
               <p>
                 Level #2, House # 18, Road #10, Sector #1, Uttara, Dhaka-1230
               </p>
 
-              <p>Phone: +8801784393953</p>
+              {/* <p>Phone: +8801784393953</p> */}
               <p>
                 Email:{" "}
                 <span className="underline">info@lanhongtextile.com</span>
