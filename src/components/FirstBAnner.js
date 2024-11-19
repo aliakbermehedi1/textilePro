@@ -31,7 +31,7 @@ const FirstBanner = () => {
 
           <div className="text-lg text-center bg-white bg-opacity-80 p-4 rounded-xl">
             <p className="font-bold text-2xl">
-              Oldstitch/Zhejiang Lanhong Textile Technology Co., LTD
+              Oldstitch / Zhejiang Lanhong Textile Technology Co., LTD
             </p>
             <div className="mt-6 border-l-4 border-yellow-300">
               <p className="font-bold text-2xl">Dhaka Office:</p>
